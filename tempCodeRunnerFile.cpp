@@ -1,1 +1,1 @@
-temp = temp->next
+l
